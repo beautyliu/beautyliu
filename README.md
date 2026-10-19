@@ -8,7 +8,7 @@ AI 产品经理。
 在学习和探索 AI。
 把业务问题翻译成产品定义，再用可验证的验收标准把它做完。
 
-🌐 [个人主页](https://beautyliu.github.io/personal-site/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/REPLACE_ME) · 💬 [公众号](#公众号)
+🌐 [个人主页](https://beautyliu.github.io/personal-site/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/68d4150b000000002102bf3a) · 💬 [公众号](#公众号)
 
 ---
 
