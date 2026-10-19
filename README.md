@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/beautyliu/beautyliu/main/assets/avatar-512.png" width="112" height="112" alt="LiuYing 头像" style="border-radius: 50%" />
+</p>
+
 # Hi, I'm LiuYing 👋
 
 [![点击打开我的主页](https://raw.githubusercontent.com/beautyliu/beautyliu/main/assets/terminal-launch.svg)](https://beautyliu.github.io/personal-site/)
